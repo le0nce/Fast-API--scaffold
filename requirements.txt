@@ -1,0 +1,8 @@
+#Web API framework
+fastapi==0.109.2
+
+#ASGI server for Python
+uvicorn==0.27.0
+
+#Loads environment variables
+dotenv==0.0.5
